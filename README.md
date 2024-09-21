@@ -2,6 +2,7 @@
 Welcome to my GitHub profile!
 
 I'm a **Junior Frontend Developer** with over 2 years of programming experience, specializing in **JavaScript** and **TypeScript**, mainly using the **React** framework.
+
 ---
 
 ## 🛠 Tech Stack
