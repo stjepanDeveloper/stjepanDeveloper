@@ -18,20 +18,19 @@ I'm a **Junior Frontend Developer** with over 2 years of programming experience,
 
 ---
 
+## 💻 Experience
+I have worked on multiple web application projects, and I'm always looking to collaborate with other developers on ambitious and exciting projects.
+
+---
+
 ## 🎓 Qualifications
 - **Master's degree in IT Management**  
   University of Split, Faculty of Economics
 - **Frontend Developer Qualification**  
   Algebra University, Zagreb
 - **Web Development Bootcamp**  
-  Completed **"The Complete 2023 Web Development Bootcamp"** by Dr. Angela Yu  
-  [Certificate URL](https://ude.my/UC-979365a0-71a0-45b9-87e0-09f171cefa50)
-
----
-
-## 💻 Experience
-I have worked on multiple web application projects, and I'm always looking to collaborate with other developers on ambitious and exciting projects.
-
+  Completed **"The Complete 2023 Web Development Bootcamp"** by Dr. Angela Yu  [Certificate URL](https://ude.my/UC-979365a0-71a0-45b9-87e0-09f171cefa50)
+  
 ---
 
 ## 🏆 Courses & Certifications
