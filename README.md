@@ -1,7 +1,8 @@
 # Hello, I'm Stjepan! 👋  
 Welcome to my GitHub profile!
 
-![Developer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhreWxvd2h5NHI0MzdoNHl6M3R0NjhpOXlwbHhhMXpzN3JpZTh6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06vbLCWUQcDKGFVjPt/giphy.webp)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhreWxvd2h5NHI0MzdoNHl6M3R0NjhpOXlwbHhhMXpzN3JpZTh6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06vbLCWUQcDKGFVjPt/giphy.webp" width="300" height="auto" alt="Cool Animation" />
+
 
 I'm a **Junior Frontend Developer** with over 2 years of programming experience, specializing in **JavaScript** and **TypeScript**, mainly using the **React** framework.
 
