@@ -40,6 +40,7 @@ I'm a **Junior Frontend Developer** with over 2 years of programming experience,
 
 ## 💻 Experience
 I have worked at a data entry position at a local museum (Etnografic Museum of Split).
+
 Worked on multiple web application projects, and I'm always looking to collaborate with other developers on ambitious and exciting projects.
 
 ---
