@@ -30,7 +30,26 @@ I'm a **Junior Frontend Developer** with over 2 years of programming experience,
   Completed **"The Complete 2023 Web Development Bootcamp"** by Dr. Angela Yu  
   [Certificate URL](https://ude.my/UC-979365a0-71a0-45b9-87e0-09f171cefa50)
 
+  ---
 
+  ## 🏆 Courses & Certifications
+- **IELTS Academic Certified**  
+  Fluent in English, both spoken and written.
+
+---
+
+## 💻 Experience
+I have worked at a data entry position at a local museum (Etnografic Museum of Split).
+Worked on multiple web application projects, and I'm always looking to collaborate with other developers on ambitious and exciting projects.
+
+---
+
+## 🤝 Collaboration & Work Ethic
+I take pride in my strong work ethic and the ability to collaborate with teams. I'm always eager to contribute to innovative projects that push boundaries!
+
+---
+
+Feel free to explore my repositories and get in touch if you'd like to work together on something amazing! 🚀
 
 
 
