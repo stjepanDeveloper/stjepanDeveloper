@@ -43,6 +43,10 @@ I have worked at a data entry position at a local museum (Etnografic Museum of S
 
 Worked on multiple web application projects, and I'm always looking to collaborate with other developers on ambitious and exciting projects.
 
+Some of my previous projects and works :
+
+https://www.ditel.hr
+
 ---
 
 ## 🤝 Collaboration & Work Ethic
